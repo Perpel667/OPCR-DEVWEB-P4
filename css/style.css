@@ -851,10 +851,12 @@ h4 {
 .bg-banniere {
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
     url("../img/la-chouette-agence-banniere.jpg");
+  background-attachment: fixed;
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("../img/image-de-presentation2.jpg");
+  background-attachment: fixed;
 }
 
 @media (max-width: 1024px) {
