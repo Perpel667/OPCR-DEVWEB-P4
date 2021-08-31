@@ -849,8 +849,7 @@ h4 {
 }
 
 .bg-banniere {
-  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("../img/la-chouette-agence-banniere.jpg");
+  background: url("../img/la-chouette-agence-banniere.jpg");
   background-attachment: fixed;
 }
 
