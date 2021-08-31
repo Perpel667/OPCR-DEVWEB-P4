@@ -766,12 +766,14 @@ h4 {
 }
 
 .portfolio-title {
-  font-size: 26px;
+  font-size: 32px;
 }
 .portfolio-thumb {
   margin-bottom: 24px;
 }
-
+.portfolio-thumb-caption {
+  font-size: 18px;
+}
 .portfolio-row {
   margin-bottom: 44px;
   margin-top: 50px;
