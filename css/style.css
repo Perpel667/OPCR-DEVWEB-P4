@@ -924,6 +924,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+  .bg-banniere {
+    background: #364577;
+  }
+  .bg-presentation {
+    background: #f3976c;
+  }
   .page-container {
     overflow-x: hidden;
     position: relative;
