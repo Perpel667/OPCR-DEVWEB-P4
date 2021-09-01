@@ -726,7 +726,11 @@ p {
   font-size: 16px;
   font-weight: 700;
 }
-
+.cta-title {
+  position: sticky;
+  font-weight: bold;
+  font-size: 26px;
+}
 .social {
   max-width: 400px;
   margin: auto auto auto auto;
@@ -846,7 +850,10 @@ h3 {
   background: url("../img/la-chouette-agence-banniere.webp");
   background-attachment: fixed;
 }
-
+.bg-banniere2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../img/la-chouette-agence-banniere.webp");
+}
 .bg-presentation {
   background-image: url("../img/image-de-presentation2.webp");
   background-attachment: fixed;
@@ -918,6 +925,9 @@ h3 {
 
 @media (max-width: 767px) {
   .bg-banniere {
+    background: #364577;
+  }
+  .bg-banniere2 {
     background: #364577;
   }
   .bg-presentation {
