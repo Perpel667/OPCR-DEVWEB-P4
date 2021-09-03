@@ -24,7 +24,7 @@ a:hover {
   bottom: 0;
   width: 100%;
   z-index: 100000;
-  background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
+  background: #ffffff url("../img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -866,15 +866,15 @@ h3 {
 
 .bg-banniere {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../img/la-chouette-agence-banniere.webp");
+    url("../img/la-chouette-agence-banniere.jpg");
   background-attachment: fixed;
 }
 .bg-banniere2 {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../img/la-chouette-agence-banniere.webp");
+    url("../img/la-chouette-agence-banniere.jpg");
 }
 .bg-presentation {
-  background-image: url("../img/image-de-presentation2.webp");
+  background-image: url("../img/image-de-presentation2.jpg");
   background-attachment: fixed;
 }
 
