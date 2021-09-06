@@ -711,7 +711,9 @@ a {
 p {
   font-size: 11px;
 }
-
+.contact-p {
+  font-size: 16px;
+}
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
